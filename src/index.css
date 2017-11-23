@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.todo{
+  color: #ab2b35;
+  width: 600px;
+  height: 60px;
+  margin: auto;
+  font-family: monospace;
+  margin-left: 1038px;
+  margin-top: 52px;
+}
+.Done{
+  font-size: 45px;
+  color:#605F5C ;
+  display: inline;  
+}
+.notDone{
+  font-size: 45px;
+  color: black;
+  display: inline;  
+}
+.check{
+  /* display: inline; */
+  float: left;
+  height: 50px;
+  width: 50px;
+}
+#txt{
+  width: 320px;
+  height: 59px;
+  font-size: 25px;
+  text-align: center;
+}
+.insert{
+  margin: auto;
+  margin-top: 30px;
+}
+.add-btn{
+  font-size: 25px;
+  width: 70px;
+  height: 65px;
+}
+.delete{
+  height: 34px;
+  width: 34px;
+  font-size: 35px;
+  border: none;
+  color: red;
+  margin-left: 20px;
+  margin-top: 6px;
+  float: left;
+}
